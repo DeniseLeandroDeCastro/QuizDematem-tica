@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Quiz</string>
+    <string name="proxima_pergunta_placeholder">Próxima Pergunta</string>
+</resources>
